@@ -5,4 +5,4 @@ Documentation:
 https://mdbootstrap.com/docs/standard/
 
 Contact:
-contact@mdbootstrap.com
+hello@mdbootstrap.com
