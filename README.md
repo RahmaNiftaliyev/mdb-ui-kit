@@ -1,6 +1,6 @@
 Bootstrap 5 UI KIT - 700+ components, plain JavaScript, MIT license, simple installation.
 
-MDB is a collection of free Bootstrap templates, themes, design tools & resources.
+MDB is a collection of free for personal & commercial use Bootstrap templates, themes, design tools & resources.
 
 ---
 
@@ -8,7 +8,6 @@ MDB is a collection of free Bootstrap templates, themes, design tools & resource
 
 ### [>> Get Started in 1 minute](https://mdbootstrap.com/docs/standard/getting-started/installation/)
 Simple installation via .zip, npm or cdnjs.
-
 
 ### [>> Install with Webpack](https://mdbootstrap.com/docs/standard/getting-started/installation/#section-webpack)
 This option is useful for experienced developers it enables bundling, unit testing code formatting, linting, saas support & more.
@@ -82,7 +81,6 @@ ___
 # Bootstrap 5 tutorial
 
 **[>> Learn more about Bootstrap 5](https://mdbootstrap.com/docs/standard/)**
-
 
 **[>> Bootstrap 5 Tutorial](https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/)**
 
